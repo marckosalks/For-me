@@ -8,3 +8,8 @@ Light mode:
 
 Dark mode:
 ![image](https://github.com/marckosalks/For-me/assets/84982384/360709bd-30a3-42f7-8c50-ac099387ec91)
+
+Como funciona?
+
+https://github.com/marckosalks/For-me/assets/84982384/b1630453-e512-4aff-a3a3-2f885c56441f
+
