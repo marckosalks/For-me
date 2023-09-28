@@ -3,13 +3,12 @@ Uma pequena aplicação com o light Mode 💡, aplicando os cohecimentos do novo
 Nesta piquena aplicação responsiva você tem a possibilidade de conhecer um pouco mais sobre 
 meus trabalhos e um pouco mais sobre mim.
 
-Light mode:
-![image](https://github.com/marckosalks/For-me/assets/84982384/ac2ede9f-c2e5-481c-923f-0434cd8e7f6d)
-
-Dark mode:
-![image](https://github.com/marckosalks/For-me/assets/84982384/360709bd-30a3-42f7-8c50-ac099387ec91)
-
 Como funciona?
 
-https://github.com/marckosalks/For-me/assets/84982384/b1630453-e512-4aff-a3a3-2f885c56441f
+
+https://github.com/marckosalks/For-me/assets/84982384/1a77213f-9ea3-4b4d-957b-76ea6ac61871
+
+
+
+https://github.com/marckosalks/For-me/assets/84982384/b3b31f17-1608-4605-9f41-fa655ff35acc
 
