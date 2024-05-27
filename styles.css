@@ -169,6 +169,12 @@ footer {
   font-size: 14px;
 }
 
+footer a{
+  list-style: none;
+  text-decoration: none;
+  color: aqua;
+}
+
 /* animation */
 
 @media (min-width: 700px) {
@@ -197,4 +203,8 @@ footer {
   to {
     left: 0;
   }
+}
+
+#under{
+  color: aqua;
 }
